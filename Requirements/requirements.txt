@@ -1,1 +1,0 @@
-This Data analysis repository requires python3 and pandas
