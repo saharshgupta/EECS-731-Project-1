@@ -1,4 +1,4 @@
-EECS 731 Project 1 - Jimmy Wrangler, Data Explorer
+# EECS 731 Project 1 - Jimmy Wrangler, Data Explorer
 
 Data - Contains two csv file for 2018 and 2019 Fifa data sets.
 
